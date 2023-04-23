@@ -12,10 +12,10 @@ Bikeshare analyze
 The program is used to display statistics on the total and average trip duration or to display statistics on the most frequent times of travel.
 
 ### Project Title
-program to Bikeshare analyzing
+Program to Bikeshare analyzing
 
 ### Description
-The program can be used to display statistics on the most frequent times of travel or to display statistics on the total and average trip duration.
+The simple program can be used to display statistics on the most frequent times of travel or to display statistics on the total and average trip duration.
 
 ### Files used
 chicago.csv
